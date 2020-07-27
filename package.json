@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "webpack": "^4.44.0"
+    },
+    "scripts": {
+        "create": "node build/build-doc.js",
+        "create-en": "node build/build-doc.js lang=en_us"
+    }
+}
