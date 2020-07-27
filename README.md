@@ -12,7 +12,15 @@ A simple webpack plugin for build docs which descript the apis.
     npm run create-en
 ```
 
+# plugin options
+  |Param|Param Description|Data Type|Data Default Value|eg:|
+  |:----- |:----- |:----- |:----- |:----- |
+  |output|path of output|String|.doc/js-api-doc.md|.doc/doc.md|
+  |vars|some key:value|Object|{arg_name: 'Param', arg_des: 'Param Description'}|{type: 'Data Type'} |
+  |lang|language of doc|String|zh-cn|zh-cn/en-us|
+
 # how to use
+
 [link]('./build/build-doc.js)
 #### js-demo
 ```

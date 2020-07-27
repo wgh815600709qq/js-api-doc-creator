@@ -14,7 +14,7 @@ class JsApiCreatorPlugin {
       },
       param: {
         'zh-cn': '参数',
-        'en-us': 'Params'
+        'en-us': 'Param'
       }
     }
     this.vars = Object.assign({
