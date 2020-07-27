@@ -1,12 +1,16 @@
 # js-api-doc-creator
+
+```
 A simple webpack plugin for build docs which descript the apis.
 
+It is helpful for projects to support batch-creating js api docs.
+```
 # plugin
-[link](plugin/js-api-creator.plugin.js)
+[plugin link](plugin/js-api-creator.plugin.js)
 
 
 # test demo script
-[link](package.json)
+[test script](package.json)
 ```
     npm run create
     npm run create-en
@@ -23,7 +27,7 @@ A simple webpack plugin for build docs which descript the apis.
 
 ## Below code is the example
 
-[link](build/build-doc.js)
+[build script](build/build-doc.js)
 #### js-demo
 ```
 /**
@@ -60,6 +64,7 @@ function Application(a, v) {
 }
 ```
 #### output
+[dist](dist/.doc_en-us/doc.md)
 
 > Application
 ### Function Description：
