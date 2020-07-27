@@ -2,11 +2,11 @@
 A simple webpack plugin for build docs which descript the apis.
 
 # plugin
-[link]('plugin/js-api-creator.plugin.js')
+[link](plugin/js-api-creator.plugin.js)
 
 
 # test demo script
-[link]('package.json')
+[link](package.json)
 ```
     npm run create
     npm run create-en
@@ -23,7 +23,7 @@ A simple webpack plugin for build docs which descript the apis.
 
 ## Below code is the example
 
-[link]('build/build-doc.js')
+[link](build/build-doc.js)
 #### js-demo
 ```
 /**
