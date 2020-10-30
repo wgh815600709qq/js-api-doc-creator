@@ -5,6 +5,9 @@ A simple webpack plugin for build docs which descript the apis.
 
 It is helpful for projects to support batch-creating js api docs.
 ```
+```
+webpack 插件, 用于把批量注释生成markdown文档。
+```
 # plugin
 [plugin link](plugin/js-api-creator.plugin.js)
 
