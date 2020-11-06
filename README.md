@@ -106,8 +106,10 @@ function Application(a, v) {
 
 >> 如果它对你有帮助，请我喝一杯咖啡吧
 
-![Image text](https://gitee.com/GentemenWu/test/blob/master/images/wxpay.png)
+<image src="./images/wxpay.png"></image>
+<!-- ![Image text](https://gitee.com/GentemenWu/test/blob/master/images/wxpay.png) -->
 
 >> if it helps you, please donate me a coffee by alipay
 
-![Image text](https://gitee.com/GentemenWu/test/blob/master/images/alipay.jpg)
+<image src="./images/alipay.jpg"></image>
+<!-- ![Image text](https://gitee.com/GentemenWu/test/blob/master/images/alipay.jpg) -->
