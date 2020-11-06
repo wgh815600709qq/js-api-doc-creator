@@ -110,4 +110,4 @@ function Application(a, v) {
 
 >> if it helps you, please donate me a coffee by alipay
 
-![Image text](https://github.com/wgh815600709qq.com/js-api-doc-creator/master/images/alipay.png)
+![Image text](https://github.com/wgh815600709qq/js-api-doc-creator/blob/master/images/alipay.jpg)
