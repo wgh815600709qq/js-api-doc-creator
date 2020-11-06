@@ -1,5 +1,5 @@
 const webpack = require('webpack');
-const JsApiCreatorPlugin = require('../plugin/js-api-creator.plugin.js');
+const JsApiCreatorPlugin = require('js-api-document-creator');
 const path = require('path');
 const langStr = process.argv.slice(2).find(it => /lang\=[a-z_]+/g.test(it))
 var lang = 'zh_cn'

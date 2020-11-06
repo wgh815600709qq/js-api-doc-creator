@@ -1,9 +1,33 @@
 {
-    "dependencies": {
-        "webpack": "^4.44.0"
-    },
-    "scripts": {
-        "create": "node build/build-doc.js",
-        "create-en": "node build/build-doc.js lang=en_us"
-    }
+  "dependencies": {
+    "js-api-document-creator": "^1.0.0",
+    "webpack": "^4.44.0"
+  },
+  "scripts": {
+    "create": "node build/build-doc.js",
+    "create-en": "node build/build-doc.js lang=en_us"
+  },
+  "name": "js-api-doc-creator",
+  "description": "```\r A simple webpack plugin for build docs which descript the apis.",
+  "version": "1.0.0",
+  "main": "plugin/js-api-creator.plugin.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgh815600709qq/js-api-doc-creator.git"
+  },
+  "keywords": [
+    "js注释生成api文档的webpack插件",
+    "注释生成",
+    "js-api-document-creator",
+    "webpack-plugin"
+  ],
+  "author": "Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgh815600709qq/js-api-doc-creator/issues"
+  },
+  "homepage": "https://github.com/wgh815600709qq/js-api-doc-creator#readme"
 }
