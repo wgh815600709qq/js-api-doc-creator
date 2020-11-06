@@ -106,8 +106,8 @@ function Application(a, v) {
 
 >> 如果它对你有帮助，请我喝一杯咖啡吧
 
-![Image text](https://github.com/wgh815600709qq.com/js-api-doc-creator/master/images/wxpay.png)
+![Image text](https://gitee.com/GentemenWu/test/blob/master/images/wxpay.png)
 
 >> if it helps you, please donate me a coffee by alipay
 
-![Image text](https://github.com/wgh815600709qq/js-api-doc-creator/blob/master/images/alipay.jpg)
+![Image text](https://gitee.com/GentemenWu/test/blob/master/images/alipay.jpg)
