@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "js-api-document-creator": "^1.0.0",
-    "webpack": "^4.44.0"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "create": "node build/build-doc.js",
